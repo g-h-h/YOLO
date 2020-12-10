@@ -1,0 +1,56 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/begin/begin",
+		    "style" : {}
+		},
+		{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "YOLO"
+		}
+	}    
+	
+	,{
+            "path" : "pages/edit/edit",
+            "style" : {},
+			"navigationBarTitleText": "写日记"
+        }
+        ,{
+            "path" : "pages/calendar/calendar",
+            "style" : {},
+			"navigationBarTitleText": "日历"
+        }		
+		,{
+			"path": "pages/register/register",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/resetpassword/resetpassword",
+			"style": {
+				"navigationStyle":"custom"
+				
+			}
+		}
+		,{
+		    "path" : "pages/login/login",
+		    "style" : {}
+		}
+		,{
+		    "path" : "pages/modify/modify",
+		    "style" : {}
+		},
+		{
+		    "path" : "pages/lianxiwomen/lianxiwomen",
+		    "style" : {}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		// "navigationBarTitleText": "YOLO",
+		"navigationBarBackgroundColor": "#aaaaff",
+		"backgroundColor": "#FFFFFF"
+	}
+}

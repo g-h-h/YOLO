@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "pic": "/components/pic/pic"
+  },
+  "component": true
+}

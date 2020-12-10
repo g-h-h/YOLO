@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "drawer-menu": "/components/drawer-menu/drawer-menu",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "ren-calendar": "/components/ren-calendar/ren-calendar",
+    "uni-card": "/components/uni-card/uni-card",
+    "q-s-animation": "/components/QS-Animation/QS-Animation",
+    "unicard": "/components/uni-card/uni-card"
+  }
+}

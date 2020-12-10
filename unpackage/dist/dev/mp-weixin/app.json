@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/begin/begin",
+    "pages/index/index",
+    "pages/edit/edit",
+    "pages/calendar/calendar",
+    "pages/register/register",
+    "pages/resetpassword/resetpassword",
+    "pages/login/login",
+    "pages/modify/modify",
+    "pages/lianxiwomen/lianxiwomen"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#aaaaff",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

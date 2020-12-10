@@ -1,0 +1,16 @@
+{
+  "name": "HM_sendcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hm-config": "file:../common/hm-config",
+    "hm-print": "file:../common/hm-print"
+  }
+}

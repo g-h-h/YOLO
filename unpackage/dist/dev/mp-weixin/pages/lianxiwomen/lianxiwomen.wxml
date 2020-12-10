@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/contact.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：200-916-3874 ( 点击拨打 )</view><view>全球总部地址：山东师范大学长清湖校区1号楼</view></view><map class="map" longitude="{{longitude}}" scale="{{scale}}" latitude="{{latitude}}" markers="{{markers}}"></map></view>

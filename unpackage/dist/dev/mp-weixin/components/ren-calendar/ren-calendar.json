@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pic": "/components/pic/pic",
+    "q-s-animation": "/components/QS-Animation/QS-Animation"
+  }
+}
