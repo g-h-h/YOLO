@@ -1,6 +1,6 @@
 {
     "name" : "YOLO",
-    "appid" : "__UNI__19514B2",
+    "appid" : "APPID",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -82,7 +82,7 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "wx6ed0b33201c16a7c",
+        "appid" : "微信小城ID",
         "setting" : {
             "urlCheck" : true
         }
